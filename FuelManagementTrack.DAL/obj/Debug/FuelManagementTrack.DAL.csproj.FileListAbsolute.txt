@@ -1,0 +1,16 @@
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\obj\Debug\FuelManagementTrack.DAL.csprojAssemblyReference.cache
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\obj\Debug\FuelManagementTrack.DAL.csproj.CoreCompileInputs.cache
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\FuelManagementTrack.DAL.dll.config
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\FuelManagementTrack.DAL.dll
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\FuelManagementTrack.DAL.pdb
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\EntityFramework.dll
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\EntityFramework.xml
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\obj\Debug\FuelManagementTrack.DAL.csproj.CopyComplete
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\obj\Debug\FuelManagementTrack.DAL.dll
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DAL\obj\Debug\FuelManagementTrack.DAL.pdb

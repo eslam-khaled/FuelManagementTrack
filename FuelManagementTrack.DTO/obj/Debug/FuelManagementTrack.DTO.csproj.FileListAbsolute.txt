@@ -1,0 +1,6 @@
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DTO\bin\Debug\FuelManagementTrack.DTO.dll
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DTO\bin\Debug\FuelManagementTrack.DTO.pdb
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DTO\obj\Debug\FuelManagementTrack.DTO.csprojAssemblyReference.cache
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DTO\obj\Debug\FuelManagementTrack.DTO.csproj.CoreCompileInputs.cache
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DTO\obj\Debug\FuelManagementTrack.DTO.dll
+C:\Users\eslam.khaled\source\repos\FuelManagementTrack\FuelManagementTrack.DTO\obj\Debug\FuelManagementTrack.DTO.pdb

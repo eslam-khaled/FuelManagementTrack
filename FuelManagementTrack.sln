@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelManagementTrack", "FuelManagementTrack\FuelManagementTrack.csproj", "{5E708478-118F-4FF6-8734-1F5B4184D15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelManagementTrack.Business", "FuelManagementTrack.Business\FuelManagementTrack.Business.csproj", "{57F1FB30-66B6-46ED-921C-13D061B5A094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelManagementTrack.DAL", "FuelManagementTrack.DAL\FuelManagementTrack.DAL.csproj", "{B866ADAA-3EC7-474F-92A2-306941F27C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelManagementTrack.DTO", "FuelManagementTrack.DTO\FuelManagementTrack.DTO.csproj", "{AAF75ADC-070E-4A14-BE35-D3C557201B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E708478-118F-4FF6-8734-1F5B4184D15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E708478-118F-4FF6-8734-1F5B4184D15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E708478-118F-4FF6-8734-1F5B4184D15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E708478-118F-4FF6-8734-1F5B4184D15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F1FB30-66B6-46ED-921C-13D061B5A094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F1FB30-66B6-46ED-921C-13D061B5A094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F1FB30-66B6-46ED-921C-13D061B5A094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F1FB30-66B6-46ED-921C-13D061B5A094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B866ADAA-3EC7-474F-92A2-306941F27C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B866ADAA-3EC7-474F-92A2-306941F27C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B866ADAA-3EC7-474F-92A2-306941F27C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B866ADAA-3EC7-474F-92A2-306941F27C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF75ADC-070E-4A14-BE35-D3C557201B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF75ADC-070E-4A14-BE35-D3C557201B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF75ADC-070E-4A14-BE35-D3C557201B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF75ADC-070E-4A14-BE35-D3C557201B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC0D86FF-A727-4355-892F-9FE71BF60F16}
+	EndGlobalSection
+EndGlobal
